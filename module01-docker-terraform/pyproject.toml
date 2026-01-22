@@ -1,7 +1,7 @@
 [project]
 name = "module01-docker-terraform"
 version = "0.1.0"
-description = "Amodule01-docker-terraform"
+description = "module01-docker-terraform"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
