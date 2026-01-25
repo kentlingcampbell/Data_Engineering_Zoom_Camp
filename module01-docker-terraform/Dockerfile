@@ -1,3 +1,4 @@
+#Simple Dockerfile with pip
 ## base Docker image that we will build on
 #FROM python:3.13.11-slim
 #
@@ -13,6 +14,8 @@
 ## in this example, we will just run the script
 #ENTRYPOINT ["python", "pipeline.py"]
 
+###################################################################################
+#Dockerfile with uv
 # Start with slim Python 3.13 image
 FROM python:3.13.10-slim
 
